@@ -1,0 +1,261 @@
+[
+  {
+    "original_url": "https://beneera.com/images/home/category-cat-supplies.webp",
+    "local_path": "app/src/main/assets/beneera/images/categories/category-cat-supplies.webp",
+    "category": "categories",
+    "filename": "category-cat-supplies.webp",
+    "size_bytes": 86022
+  },
+  {
+    "original_url": "https://beneera.com/images/home/category-cleaning-odor.webp",
+    "local_path": "app/src/main/assets/beneera/images/categories/category-cleaning-odor.webp",
+    "category": "categories",
+    "filename": "category-cleaning-odor.webp",
+    "size_bytes": 47886
+  },
+  {
+    "original_url": "https://beneera.com/images/home/category-dog-supplies.webp",
+    "local_path": "app/src/main/assets/beneera/images/categories/category-dog-supplies.webp",
+    "category": "categories",
+    "filename": "category-dog-supplies.webp",
+    "size_bytes": 85792
+  },
+  {
+    "original_url": "https://beneera.com/images/home/category-feeding-watering.webp",
+    "local_path": "app/src/main/assets/beneera/images/categories/category-feeding-watering.webp",
+    "category": "categories",
+    "filename": "category-feeding-watering.webp",
+    "size_bytes": 54748
+  },
+  {
+    "original_url": "https://beneera.com/images/home/category-pet-beds-furniture.webp",
+    "local_path": "app/src/main/assets/beneera/images/categories/category-pet-beds-furniture.webp",
+    "category": "categories",
+    "filename": "category-pet-beds-furniture.webp",
+    "size_bytes": 104734
+  },
+  {
+    "original_url": "https://beneera.com/images/home/category-pet-grooming.webp",
+    "local_path": "app/src/main/assets/beneera/images/categories/category-pet-grooming.webp",
+    "category": "categories",
+    "filename": "category-pet-grooming.webp",
+    "size_bytes": 58564
+  },
+  {
+    "original_url": "https://beneera.com/images/home/category-pet-toys.webp",
+    "local_path": "app/src/main/assets/beneera/images/categories/category-pet-toys.webp",
+    "category": "categories",
+    "filename": "category-pet-toys.webp",
+    "size_bytes": 66606
+  },
+  {
+    "original_url": "https://beneera.com/images/home/category-travel-carriers.webp",
+    "local_path": "app/src/main/assets/beneera/images/categories/category-travel-carriers.webp",
+    "category": "categories",
+    "filename": "category-travel-carriers.webp",
+    "size_bytes": 85930
+  },
+  {
+    "original_url": "https://beneera.com/images/home/hero-pet-essentials.webp",
+    "local_path": "app/src/main/assets/beneera/images/home/hero-pet-essentials.webp",
+    "category": "home",
+    "filename": "hero-pet-essentials.webp",
+    "size_bytes": 170044
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/10/zso3vfdlkhajfi2r8qdh.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/zso3vfdlkhajfi2r8qdh.webp",
+    "category": "products",
+    "filename": "zso3vfdlkhajfi2r8qdh.webp",
+    "size_bytes": 411284
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/11/wizpb4yrxvnnpklo43mw.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/wizpb4yrxvnnpklo43mw.webp",
+    "category": "products",
+    "filename": "wizpb4yrxvnnpklo43mw.webp",
+    "size_bytes": 321682
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/12/otz1l5q4hgdvcw39axbv.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/otz1l5q4hgdvcw39axbv.webp",
+    "category": "products",
+    "filename": "otz1l5q4hgdvcw39axbv.webp",
+    "size_bytes": 85478
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/13/zcgl0bkx3mwlgz7syavv.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/zcgl0bkx3mwlgz7syavv.webp",
+    "category": "products",
+    "filename": "zcgl0bkx3mwlgz7syavv.webp",
+    "size_bytes": 181460
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/14/lmptthhg1tcpachtjplp.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/lmptthhg1tcpachtjplp.webp",
+    "category": "products",
+    "filename": "lmptthhg1tcpachtjplp.webp",
+    "size_bytes": 81352
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/15/iudb535vcdeyxm6v5kbf.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/iudb535vcdeyxm6v5kbf.webp",
+    "category": "products",
+    "filename": "iudb535vcdeyxm6v5kbf.webp",
+    "size_bytes": 136260
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/16/gea6a2h0yqibiboiypkr.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/gea6a2h0yqibiboiypkr.webp",
+    "category": "products",
+    "filename": "gea6a2h0yqibiboiypkr.webp",
+    "size_bytes": 122744
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/17/fvcuinszpncstzktqibc.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/fvcuinszpncstzktqibc.webp",
+    "category": "products",
+    "filename": "fvcuinszpncstzktqibc.webp",
+    "size_bytes": 356338
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/18/4c4gue0z1bbit4dy0bd4.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/4c4gue0z1bbit4dy0bd4.webp",
+    "category": "products",
+    "filename": "4c4gue0z1bbit4dy0bd4.webp",
+    "size_bytes": 62724
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/19/rb8tmkk56whptwgcumd4.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/rb8tmkk56whptwgcumd4.webp",
+    "category": "products",
+    "filename": "rb8tmkk56whptwgcumd4.webp",
+    "size_bytes": 132280
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/2/bp91xy2dovl2uamorhcp.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/bp91xy2dovl2uamorhcp.webp",
+    "category": "products",
+    "filename": "bp91xy2dovl2uamorhcp.webp",
+    "size_bytes": 90874
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/20/4fk2r2dndn9sosmqmn1j.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/4fk2r2dndn9sosmqmn1j.webp",
+    "category": "products",
+    "filename": "4fk2r2dndn9sosmqmn1j.webp",
+    "size_bytes": 89306
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/21/vam9krb3rupswd3dyo7i.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/vam9krb3rupswd3dyo7i.webp",
+    "category": "products",
+    "filename": "vam9krb3rupswd3dyo7i.webp",
+    "size_bytes": 166934
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/22/vgmys1suxkug5tvagpg9.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/vgmys1suxkug5tvagpg9.webp",
+    "category": "products",
+    "filename": "vgmys1suxkug5tvagpg9.webp",
+    "size_bytes": 158504
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/23/7sgqjjqc0rqzs8wkijzq.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/7sgqjjqc0rqzs8wkijzq.webp",
+    "category": "products",
+    "filename": "7sgqjjqc0rqzs8wkijzq.webp",
+    "size_bytes": 41030
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/24/suhvtlhh11gm8rehjqwq.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/suhvtlhh11gm8rehjqwq.webp",
+    "category": "products",
+    "filename": "suhvtlhh11gm8rehjqwq.webp",
+    "size_bytes": 65498
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/25/hcdzrxsoodyj5qg0hdez.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/hcdzrxsoodyj5qg0hdez.webp",
+    "category": "products",
+    "filename": "hcdzrxsoodyj5qg0hdez.webp",
+    "size_bytes": 109356
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/26/avrjksmgbutev1ihhgum.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/avrjksmgbutev1ihhgum.webp",
+    "category": "products",
+    "filename": "avrjksmgbutev1ihhgum.webp",
+    "size_bytes": 190138
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/3/qg8k7txibft8rwxq24on.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/qg8k7txibft8rwxq24on.webp",
+    "category": "products",
+    "filename": "qg8k7txibft8rwxq24on.webp",
+    "size_bytes": 165348
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/38/864cgenyuz6miaedi7h9.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/864cgenyuz6miaedi7h9.webp",
+    "category": "products",
+    "filename": "864cgenyuz6miaedi7h9.webp",
+    "size_bytes": 68768
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/4/w5pobjhvrj8apylm9ccw.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/w5pobjhvrj8apylm9ccw.webp",
+    "category": "products",
+    "filename": "w5pobjhvrj8apylm9ccw.webp",
+    "size_bytes": 197668
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/47/ifxxr5ofaqcvoy016k3v.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/ifxxr5ofaqcvoy016k3v.webp",
+    "category": "products",
+    "filename": "ifxxr5ofaqcvoy016k3v.webp",
+    "size_bytes": 168460
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/5/kafbb7tvwjpvkzwvjjs7.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/kafbb7tvwjpvkzwvjjs7.webp",
+    "category": "products",
+    "filename": "kafbb7tvwjpvkzwvjjs7.webp",
+    "size_bytes": 336634
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/6/vkuh7k3xrnyhvylefbfd.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/vkuh7k3xrnyhvylefbfd.webp",
+    "category": "products",
+    "filename": "vkuh7k3xrnyhvylefbfd.webp",
+    "size_bytes": 104766
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/69/m9x0lamyvmdodgtqce74.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/m9x0lamyvmdodgtqce74.webp",
+    "category": "products",
+    "filename": "m9x0lamyvmdodgtqce74.webp",
+    "size_bytes": 120716
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/7/wp2fc9pj7reuixwghup3.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/wp2fc9pj7reuixwghup3.webp",
+    "category": "products",
+    "filename": "wp2fc9pj7reuixwghup3.webp",
+    "size_bytes": 29470
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/8/ug2djl3ids9txvzjoqpg.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/ug2djl3ids9txvzjoqpg.webp",
+    "category": "products",
+    "filename": "ug2djl3ids9txvzjoqpg.webp",
+    "size_bytes": 110370
+  },
+  {
+    "original_url": "https://beneera.com/uploads/products/9/qfketlrsjzn9wmfonixw.webp",
+    "local_path": "app/src/main/assets/beneera/images/products/qfketlrsjzn9wmfonixw.webp",
+    "category": "products",
+    "filename": "qfketlrsjzn9wmfonixw.webp",
+    "size_bytes": 42098
+  }
+]
